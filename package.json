@@ -1,0 +1,13 @@
+{
+    "name": "npm-import-plugin-test",
+    "version": "1.0.0",
+    "description": "test files for the npm import repo",
+    "homepage": "http://lesscss.org",
+    "contributors": [
+        { "name": "Luke Page" }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/less/npm-import-plugin-test.git"
+    }
+}
